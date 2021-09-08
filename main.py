@@ -8,11 +8,13 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
+def function(a,b):
+    return(a+b)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Hester')
     print("How are you doing?")
     print("add another printed line")
-    pass
+    print(function(2,3))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
