@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Hester')
     print("How are you doing?")
-
+    print("add another printed line")
+    pass
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
